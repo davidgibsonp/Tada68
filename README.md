@@ -12,3 +12,5 @@ I have included the FLASH.BIN file and screenshots of the layers for each layout
 ### [Program TADA68 on a Mac](https://www.reddit.com/r/MechanicalKeyboards/comments/520cov/using_an_originative_tada86_on_a_mac/)
 
 ### [TADA68 Layout Editor FN Translations](https://www.reddit.com/r/MechanicalKeyboards/comments/52totq/tada68_layout_editor_translation/?)
+
+### [QMK Configurator](https://config.qmk.fm/#/tada68/LAYOUT_ansi)
